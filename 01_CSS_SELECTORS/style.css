@@ -1,0 +1,39 @@
+li{
+  font-weight: 700;
+}
+
+.html {
+  color: #DD4B25;
+}
+
+.css {
+  color: #254BDD;
+}
+
+.js {
+  color: #E3C42F;
+}
+
+.react {
+  color: #5ED3F3;
+}
+
+.tailwind {
+  color: #17B2B3;
+}
+
+#html{
+  font-size: 20px;
+}
+
+/* attribute selector in css */
+
+[alok] {
+  background-color: red;
+}
+
+/* Sudo selector */
+
+h1:hover{
+  color: green;
+}
